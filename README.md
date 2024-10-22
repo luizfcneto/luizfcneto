@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá, sou o Luiz Fernando Carneiro da Cunha Neto! 👋
+# Olá, sou o Luiz Fernando! 👋
 
 ### Desenvolvedor Full Stack | Apaixonado por Tecnologia 💻 | Amante de Esportes 🏅
 
@@ -47,7 +47,7 @@ Sou um desenvolvedor full-stack em constante evolução, sempre buscando soluç�
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luizfcneto&show_icons=true&theme=radical" alt="Estatísticas do Luiz Fernando" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcneto&langs_count=5&hide=html,css" alt="Linguagens mais utilizadas" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcneto&langs_count=6&hide=html,css&layout=compact" alt="Linguagens mais utilizadas" width="45%"/>
 </p>
 
 ---
