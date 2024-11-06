@@ -46,8 +46,8 @@ Sou um desenvolvedor full-stack em constante evolução, sempre buscando soluç�
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizfcneto&show_icons=true&theme=radical" alt="Estatísticas do Luiz Fernando" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcneto&langs_count=6&hide=html,css&layout=compact" alt="Linguagens mais utilizadas" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luizfcneto&show_icons=true" alt="Estatísticas do Luiz Fernando" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcneto&hide=html,css&layout=compact&hide_progress=true" alt="Linguagens mais utilizadas" width="45%"/>
 </p>
 
 ---
